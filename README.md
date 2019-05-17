@@ -2,10 +2,14 @@
 Big Thank's to my friend Rue for the idea!
 https://drive.google.com/file/d/1CK67m0Pkb0dFeri8Vtz16TC5Af2pVl79/view?usp=sharing
 Use this link to download the nurse fit! (File to big for git hub)
-The mods also work with Unicast Aboreon Apparel & Cosplayer ! ( I use unicast ) 
+
+The mods also work with Unicast Aborean Apparel & Cosplayer ! ( I use unicast ) 
+
 Cosplayer:https://github.com/TeraProxy/Cosplayer 
+
 Unicast: https://github.com/soler91/unicast-free 
-Arboreon Apparel: https://github.com/iribae/arborean-apparel
+
+Arborean Apparel: https://github.com/iribae/arborean-apparel
 
 Turns the White nurse outfit ,cocomin pet , fluffy ear muffs and Billy - bob bear into a Cream and brown with pink hints.
 
