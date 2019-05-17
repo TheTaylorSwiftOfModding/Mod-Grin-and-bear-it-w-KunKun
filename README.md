@@ -7,7 +7,7 @@ The mods also work with Unicast Aborean Apparel & Cosplayer ! ( I use unicast )
 
 Cosplayer:https://github.com/TeraProxy/Cosplayer 
 
-Unicast: https://github.com/soler91/unicast-free 
+Unicast: https://github.com/soler91/unicast-free There is an awesome paid version with more features! Check out the discord https://discord.gg/7PfQfD8
 
 Arborean Apparel: https://github.com/iribae/arborean-apparel
 
